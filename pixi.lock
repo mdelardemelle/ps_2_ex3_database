@@ -8320,4 +8320,7 @@ packages:
   requires_dist:
   - click
   - kaggle
+  - pandas
+  - matplotlib
+  - numpy
   requires_python: '>=3.12'

@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "NBA database analysis for PS2 exercise 3"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = ["click", "kaggle"]
+dependencies = ["click", "kaggle", "pandas", "matplotlib", "numpy"]
 
 [tool.setuptools.packages.find]
 include = ["nba", "nba.*"]
